@@ -30,7 +30,7 @@ export default function Explore() {
         <SwiperSlide>
           <div className="relative group">
             <img
-              src="public/image/lg1.jpg"
+              src="/image/lg1.jpg"
               alt="Example 1"
               className="w-full h-64 sm:h-72 md:h-80 lg:h-96 rounded-lg shadow-md object-cover"
             />
@@ -46,7 +46,7 @@ export default function Explore() {
         <SwiperSlide>
           <div className="relative group">
             <img
-              src="public/image/lg2.png"
+              src="/image/lg2.png"
               alt="Example 2"
               className="w-full h-64 sm:h-72 md:h-80 lg:h-96 rounded-lg shadow-md object-cover"
             />
@@ -62,7 +62,7 @@ export default function Explore() {
         <SwiperSlide>
           <div className="relative group">
             <img
-              src="public/image/lg3.jpg"
+              src="/image/lg3.jpg"
               alt="Example 3"
               className="w-full h-64 sm:h-72 md:h-80 lg:h-96 rounded-lg shadow-md object-cover"
             />
@@ -78,7 +78,7 @@ export default function Explore() {
         <SwiperSlide>
           <div className="relative group">
             <img
-              src="public/image/lg4.png"
+              src="/image/lg4.png"
               alt="Example 4"
               className="w-full h-64 sm:h-72 md:h-80 lg:h-96 rounded-lg shadow-md object-cover"
             />
@@ -94,7 +94,7 @@ export default function Explore() {
         <SwiperSlide>
           <div className="relative group">
             <img
-              src="public/image/office.jpg"
+              src="/image/office.jpg"
               alt="Example 5"
               className="w-full h-64 sm:h-72 md:h-80 lg:h-96 rounded-lg shadow-md object-cover"
             />
@@ -110,7 +110,7 @@ export default function Explore() {
         <SwiperSlide>
           <div className="relative group">
             <img
-              src="public/image/lg5.webp"
+              src="/image/lg5.webp"
               alt="Example 6"
               className="w-full h-64 sm:h-72 md:h-80 lg:h-96 rounded-lg shadow-md object-cover"
             />

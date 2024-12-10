@@ -25,7 +25,7 @@ const About = () => {
 
       {/* About Image Section */}
       <div className="w-full h-42 md:h-60 clip-path-polygon relative bg-cover bg-center bg-no-repeat mt-4" 
-      style={{ backgroundImage: 'url(/public/image/ex9.jpg)' }}>
+      style={{ backgroundImage: 'url(/image/ex9.jpg)' }}>
         {/* Optional Overlay (for better text visibility on the background image) */}
         <div className="absolute inset-0 bg-black bg-opacity-30"></div>
       </div>

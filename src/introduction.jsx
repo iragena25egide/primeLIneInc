@@ -7,7 +7,7 @@ const Introduction = () => {
       <div
         className="w-full h-[350px] md:h-[450px] relative flex items-center justify-center"
         style={{
-          backgroundImage: 'url(/public/image/home.jpg)',
+          backgroundImage: 'url(/image/home.jpg)',
           backgroundSize: "cover",
           backgroundPosition: "center",
           transform: "scaleX(-1)",

@@ -16,7 +16,7 @@ const Smart = () => {
 
       {/* Item 1 */}
       <div className="flex flex-col md:flex-row items-center mb-8">
-        <img src="/public/image/2graph.png" alt="Cloud-Based Technology" className="w-full md:w-1/2 h-50" />
+        <img src="/image/2graph.png" alt="Cloud-Based Technology" className="w-full md:w-1/2 h-50" />
         <div className="item-info w-full md:w-1/2 md:ml-12 mt-4 md:mt-0">
           <h2 className="text-2xl font-semibold text-gray-800">Cloud-Based Technology</h2>
           <p className="mt-4 text-sm text-gray-700">
@@ -33,7 +33,7 @@ const Smart = () => {
             Our trained and dedicated call center agents can mobilize quickly to provide brand- and industry-specific support, both in crisis and customer care situations.
           </p>
         </div>
-        <img src="/public/image/3graph.png" alt="Human Element" className="w-full md:w-1/2 h-45" />
+        <img src="/image/3graph.png" alt="Human Element" className="w-full md:w-1/2 h-45" />
       </div>
     </div>
   );

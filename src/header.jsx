@@ -34,7 +34,7 @@ const Header = () => {
             onClick={() => navigate("/")}
           >
             <img
-              src="/public/image/logo4.png"
+              src="/image/logo4.png"
               alt="Logo"
               className="w-12 md:w-16"
             />
