@@ -108,7 +108,7 @@ const Header = () => {
         <div className="hidden md:block">
           <Link
             to="/contact-us"
-            className="px-4 py-2 border border-white rounded-full text-white text-sm hover:bg-white hover:text-gray-900 transition"
+            className="px-4 py-2 border border-white rounded-[20px_20px_20px_5px] text-white text-sm hover:bg-white hover:text-gray-900 transition"
           >
             CONTACT US
           </Link>

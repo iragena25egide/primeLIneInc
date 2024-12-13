@@ -16,6 +16,8 @@ import Emergency from './emergency';
 import Innovation from './innovation';
 import Careers from './careers';
 import ContactUs from './contactUs';
+import HeroSection from './try';
+import NetworkCommunications from './try';
 
 
 function App() {
@@ -24,21 +26,6 @@ function App() {
   return (
     <BrowserRouter>
       <Routes>
-        <Route path='/' element={
-          <>
-          <Header />
-          <Introduction />
-          <Capabilities />
-          <About />
-          <Proof />
-          <Smart />
-          <Network />
-          <Map />
-          <Explore />
-          <Footer />
-          </>
-          } 
-          />
           <Route path='/about-us' element={
             <>
             <Header />
@@ -89,6 +76,19 @@ function App() {
             <Footer />
             </>
           } />
+           <Route path='/' element={
+          <>
+          <NetworkCommunications />
+          <About />
+          <Proof />
+          <Smart />
+          <Network />
+          <Map />
+          <Explore />
+          <Footer />
+          </>
+          } 
+          />
       </Routes>
     </BrowserRouter>
   )

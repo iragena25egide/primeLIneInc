@@ -53,8 +53,8 @@ const ContactUs = () => {
     <div className="mt-24 p-4 bg-gray-50">
       {/* Contact Header */}
       <div className="text-center mb-6">
-        <h1 className="text-2xl font-semibold text-black">Contact Us</h1>
-        <p className="text-sm text-gray-600 mt-2">
+        <h1 className="text-2xl font-poetsen text-gray-900">Contact Us</h1>
+        <p className="text-sm text-gray-900 mt-2 font-Inder">
           We would love to hear from you, your feedback is our priority.
         </p>
       </div>
@@ -106,7 +106,7 @@ const ContactUs = () => {
             name='message'
             className="w-full h-32 p-3 border border-gray-300 rounded-lg focus:outline-none focus:ring-1 focus:ring-blue-500 text-sm resize-none"
           />
-          <button className="px-10 mx-auto py-2 rounded-lg bg-blue-500 text-white hover:bg-blue-600 transition duration-300 text-sm">
+          <button className="px-10 mx-auto py-2 rounded-[20px_20px_20px_5px] bg-gradient-to-r from-blue-500 via-purple-500 to-pink-500 text-white  transition duration-300 text-sm">
             Submit
           </button>
          <br></br>
@@ -120,12 +120,12 @@ const ContactUs = () => {
         {/* Contact Info Section */}
         <div className="w-full p-4 md:w-1/3 space-y-3 ml-8">
           <div>
-            <h4 className="text-1xl font-semibold text-black">PrimeLine Communication Inc.</h4>
-            <h5 className="text-sm text-gray-700 mt-2">Rwanda Headquarters</h5>
-            <p className="text-sm text-gray-600 mt-2">Kigali, Gasabo</p>
+            <h4 className="text-1xl font-poetsen text-black">PrimeLine Communication Inc.</h4>
+            <h5 className="text-sm text-gray-700 mt-2 font-poetsen">Rwanda Headquarters</h5>
+            <p className="text-sm text-gray-600 mt-2 font-poetsen">Kigali, Gasabo</p>
           </div>
           <div className="space-y-4">
-            <h5 className="text-1xl text-blue-600 text-center">Reach Out</h5>
+            <h5 className="text-1xl text-gray-900 text-center font-poetsen">Reach Out</h5>
             <div className="flex items-center space-x-3">
               <MdEmail size={18} color="#005ea1" />
               <p className="text-sm text-gray-700">Primeline@gmail.com</p>

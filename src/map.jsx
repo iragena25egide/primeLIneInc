@@ -2,7 +2,7 @@ import React from 'react';
 
 const Map = () => {
   return (
-    <div className="bg-cover bg-center h-98 py-8" style={{ backgroundImage: "url('/image/night.png')" }}>
+    <div className="bg-cover bg-center h-98 py-8 bg-gray-900">
       <div className="text-center px-4">
         <h1 className="text-2xl md:text-2xl font-medium text-white">
           Mobilize Your Call Center <br /> Operations in a Flash

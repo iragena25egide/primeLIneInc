@@ -12,21 +12,21 @@ const Network = () => {
       </div>
       <div className="w-full md:w-3/5 grid grid-cols-2 gap-8 px-4">
         <div className="item text-center">
-          <h1 className="text-2xl font-bold text-transparent bg-gradient-to-r from-red-500 to-blue-500 bg-clip-text">
+          <h1 className="text-3xl font-bold text-transparent bg-gradient-to-r from-blue-500  to-pink-500 bg-clip-text">
             100M
           </h1>
           <p className="text-sm text-gray-700 mt-2">interactions per year</p>
         </div>
 
         <div className="item text-center">
-          <h1 className="text-2xl font-bold text-transparent bg-gradient-to-r from-red-500 to-blue-500 bg-clip-text">
+          <h1 className="text-3xl font-bold text-transparent bg-gradient-to-r from-blue-500  to-pink-500 bg-clip-text">
             24x7
           </h1>
           <p className="text-sm text-gray-700 mt-2">monitoring and data protection</p>
         </div>
 
         <div className="item text-center">
-          <h1 className="text-2xl font-bold text-transparent bg-gradient-to-r from-red-500 to-blue-500 bg-clip-text">
+          <h1 className="text-3xl font-bold text-transparent bg-gradient-to-r from-blue-500  to-pink-500 bg-clip-text">
             500M
           </h1>
           <p className="text-sm text-gray-700 mt-2">
@@ -35,7 +35,7 @@ const Network = () => {
         </div>
 
         <div className="item text-center">
-          <h1 className="text-2xl font-bold text-transparent bg-gradient-to-r from-red-500 to-blue-500 bg-clip-text">
+          <h1 className="text-2xl font-bold text-transparent bg-gradient-to-r from-blue-500 via-purple-500 to-pink-500 bg-clip-text">
             5
           </h1>
           <p className="text-sm text-gray-700 mt-2">call centers in North America and abroad</p>

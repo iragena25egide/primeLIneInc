@@ -7,8 +7,8 @@ const Customer = () => {
     <div className="bg-gray-50 py-8 px-4 md:p-12 flex justify-between items-center mt-16">
       {/* Left Section */}
       <div className="w-full md:w-2/5 px-4 mb-8 md:mb-0">
-        <h4 className="text-1xl text-blue-700 font-semibold text-center mb-1">The Advantage of our company</h4>
-        <img src="/image/customer.png" alt="Image not found" className="w-full h-auto rounded-lg" />
+        <h4 className="text-1xl text-gray-900 font-poetsen text-center mb-1">The Advantage of our company</h4>
+        <img src="/image/save.png" alt="Image not found" className="w-full h-auto rounded-lg" />
       </div>
 
       {/* Right Section */}
